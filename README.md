@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bienvenue !
 
 <!--
 **jfgiraud/jfgiraud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Statistiques](https://github-readme-stats.vercel.app/api?username=jfgiraud&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)
+[![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=jfgiraud&hide=html,smarty&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
